@@ -1,4 +1,4 @@
-Requirement for python
-pyautogui
-time
-tkinter
+Requirement for python:-
+(pyautogui),
+(time),
+(tkinter),
